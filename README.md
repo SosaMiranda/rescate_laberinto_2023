@@ -1,4 +1,4 @@
-# This is the code of the Talos team for the Simulated Rescue Maze Competition
+# This is the code of the Atlas Team based on the Thalos Team Open Source Code
 
 ## Running the code
 
